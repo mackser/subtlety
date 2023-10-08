@@ -1,1 +1,1 @@
-Model typehints Docker fix (#8306)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
