@@ -1,1 +1,1 @@
-Docs partial mdformat improvements (#7378)
+Clean up unused imgsz (#7771)
