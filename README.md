@@ -1,1 +1,1 @@
-Mkdocs annotations fixes (#7600)
+Resize angle, count, and stage on keypoint number change (#7598)
